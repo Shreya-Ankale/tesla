@@ -32,7 +32,7 @@ background-image: ${props=>`url("/images/${props.bgImage}")`}
 
 `
 const TeslaTitle=styledComponents.div`
-padding-top:15vh;
+padding-top:1vh;
 text-align:center;
 `
 
